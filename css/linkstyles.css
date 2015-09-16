@@ -615,8 +615,8 @@
 	height: 100%;
 	background: #fff;
 	line-height: 0.8;
-	-webkit-transition: -webkit-transform 0.5s;
-	transition: transform 0.5s;
+	-webkit-transition: -webkit-transform .8s;
+	transition: transform .8s;
 }
 
 .link--ilin span:last-of-type::before {
@@ -626,8 +626,8 @@
 	height: 100%;
 	background: rgba(31, 57, 83,1.0);
 	line-height: 0.8;
-	-webkit-transition: -webkit-transform 0.5s;
-	transition: transform 0.5s;
+	-webkit-transition: -webkit-transform .8s;
+	transition: transform .8s;
 }
 
 .link--ilin:hover span:last-of-type::before,
